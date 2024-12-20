@@ -1,0 +1,3 @@
+Python 3.6 or later is recommended.
+The Titanic dataset should be stored at ./dataset/Titanic-Dataset.csv. 
+Run pip install pandas numpy seaborn matplotlib scikit-learn to install all the required libraries
